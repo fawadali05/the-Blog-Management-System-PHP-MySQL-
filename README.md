@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blog Management System (PHP, MySQL)
 
 A clean, lightweight blog application with:
@@ -67,3 +68,6 @@ blog-management-php/
 
 ## 6) License
 MIT — do whatever you like, just don't hold me liable. 🙂
+=======
+# the-Blog-Management-System-PHP-MySQL-
+>>>>>>> c73de848bc5df1eb61ed0e87f02fb1f70459c1ca
